@@ -1,0 +1,7 @@
+c:\users\ironb\documents\visual studio 2015\Projects\RbxChatSharp\RbxChatSharp\bin\Debug\RbxChatSharp.dll
+c:\users\ironb\documents\visual studio 2015\Projects\RbxChatSharp\RbxChatSharp\bin\Debug\RbxChatSharp.pdb
+c:\users\ironb\documents\visual studio 2015\Projects\RbxChatSharp\RbxChatSharp\bin\Debug\Newtonsoft.Json.dll
+c:\users\ironb\documents\visual studio 2015\Projects\RbxChatSharp\RbxChatSharp\bin\Debug\Newtonsoft.Json.xml
+c:\users\ironb\documents\visual studio 2015\Projects\RbxChatSharp\RbxChatSharp\obj\Debug\RbxChatSharp.dll
+c:\users\ironb\documents\visual studio 2015\Projects\RbxChatSharp\RbxChatSharp\obj\Debug\RbxChatSharp.pdb
+C:\Users\ironb\Documents\Visual Studio 2015\Projects\RbxChatSharp\RbxChatSharp\obj\Debug\RbxChatSharp.csprojResolveAssemblyReference.cache
